@@ -9,5 +9,5 @@
 # ctf4b2023
 !ctf4b2023/**/*.tar.gz
 !ctf4b2023/**/README.md
-!ctf4b2023/**/solver/**
+!ctf4b2023/**/solve*
 
